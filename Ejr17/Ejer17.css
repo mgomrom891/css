@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  .container{
+margin: 50px auto;
+background-color: green;
+padding: 75px 0px;
+  }
+
+div {
+    max-width: 300px;
+    padding: 150px;
+    background-color: lightgray;
+    margin: 50px auto;
+    background-position: center center;
+  } 
+  h2 {
+    text-align: center;
+    
+  }

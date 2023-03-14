@@ -1,0 +1,15 @@
+h1  {
+    align-content: center;
+    margin: auto;
+    width: 300px;
+    background-color: lightblue;
+   
+    }
+    
+    p {
+    width: 100%;
+    background-color: lightblue;
+    margin: 15px 15px;
+    padding: 25px 50px;      
+    
+    }  

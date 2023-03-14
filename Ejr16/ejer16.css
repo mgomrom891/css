@@ -1,0 +1,30 @@
+
+        h1 {
+            height: 50px;
+            background-color: lightgray;
+            align-content: center;
+            margin: auto;
+            width: 300px;
+    }
+    
+        .p {
+            font-style: oblique;
+            font-family: sans-serif;
+            font-size: 80%;      
+            background-color: antiquewhite;
+        }
+        .p1 {
+            text-transform: uppercase;
+            text-indent: 50px;
+            background-color: yellow;
+        }
+        .p2 {
+            text-align: right;  
+            background-color: lightpink;
+        }
+        .p3 {
+            font-size: 80%;
+            word-spacing:20px;       
+            background-color: thistle;
+        }
+   

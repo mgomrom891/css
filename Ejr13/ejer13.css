@@ -1,0 +1,33 @@
+body 
+p1 {
+border: 5px solid red;
+
+}
+p2 {
+border: solid blue;
+
+}
+p3 {
+border: solid yellow;
+}
+
+p4 {
+border-style: dotted;
+border-color: red blue blue;
+}
+p5 {
+border-style: double;
+border-color: black;
+border-width: 10px;
+
+}
+p6 {
+border-style: solid double;
+
+}
+
+p7 {
+border-color: black;
+border-width: 2px 10px 5px;
+border-style: solid solid;  
+}

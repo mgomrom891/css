@@ -1,0 +1,14 @@
+p {
+    border: 2px solid gray;
+    width: 50%;
+    margin: 0px;
+   
+}
+   
+.p1 {
+    background-color: lightgray;
+    position: fixed;
+    left: 80px;
+    top: 40px;
+    
+} 

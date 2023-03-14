@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+    margin: 20px;
+
+}
+     p{
+                   
+    margin: 1cm;
+    width: 300px;
+    background-color: lightgray;
+}
+    p {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    
+}

@@ -1,0 +1,12 @@
+div {
+    display: inline;
+    float: left;
+    margin: 1cm;
+    padding: .3cm;
+    border: 2px solid #555;
+    width: 100px;
+    height: 150px;
+    font-family: 1cm Arial, Helvetica, sans-serif;
+    overflow: visible;
+    
+}
