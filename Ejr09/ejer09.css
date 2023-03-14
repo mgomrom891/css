@@ -1,0 +1,9 @@
+body {
+    background-image: url("campo.jpg");
+    background-position: 10%;
+    background-size: 200px auto;       
+    background-repeat: repeat;      
+}
+p {
+    color: red;
+}
